@@ -67,11 +67,11 @@ y una separacion podremos escribir.
  
  La media ponderada sirve para sumar todos los datos dividirlo en unos tantos por cientos y sacar la nota final o el valor final
  
- Porcentaje																	        Descuento
- 88 	14%																	        88		14%
- Larga: 88 * (14/100)															Larga: 	precio - (precio*0.14)
- Corta: 88 * 0.14																Corta: 	precio * (1-0.14) 
- 																				            Precio - 0.86
+ Porcenta                                                             Descuento
+ 88 	14%						        88		14%
+ Larga: 88 * (14/100)					 Larga: 	precio - (precio*0.14)
+ Corta: 88 * 0.14					Corta: 	precio * (1-0.14) 
+ 						           Precio - 0.86
 																				
 Recargo
 88 + 14% = 102.33
@@ -81,7 +81,7 @@ precio * (1+0.14)
 precio * 1.14
 
 Dia sin Iva
-                                                                        100     21%     79euros
+                                                             100     21%     79euros
 100 + Iva 
 PN  + IVA
 PN + PN * 0.21 = PVP
