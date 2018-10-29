@@ -1,6 +1,6 @@
-jubilado=input("di si lo eres o no:"))
-sexo=input("di tu sexo:")
-cabello=input("indica eltipo de cabello que tienes:")
+jubilado= input("di si lo eres o no:"))
+sexo= input("di tu sexo:")
+cabello= input("indica eltipo de cabello que tienes:")
 if(jubilado=="no")and(sexo=="hombre"):
     print("tienes que pagar 1 euro")
 else:
