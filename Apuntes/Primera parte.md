@@ -1,9 +1,9 @@
 Las **listas de distribucion** sirve para enviar un mensaje a un grupo de personas rapidamente, en vez de estar enviando uno por uno
 creas el grupo ,añadiendo a las personas y les llega.
 Hay varios tipos de lsita de distribucion:
-- Foro Online : Donde se puede debatir
-- Preguntas y respuestas: Puede haber diferentes temas.
-- Lista de correo electronico: Sirve para que cualquier persona pueda enviar mensajes a los miembros del grupo.
+- **Foro Online** : Donde se puede debatir
+- **Preguntas y respuestas**: Puede haber diferentes temas.
+- **Lista de correo electronico**: Sirve para que cualquier persona pueda enviar mensajes a los miembros del grupo.
 
 Despues hemos creado una hoja de calculo para hcer los ejercicios donde al principio se llamaba: (Impresionar al jefe/professor).
 El cual ahora se ha cambiado a Deberes de hoja de calculo con nuestro nombre.
@@ -16,12 +16,12 @@ Que son:
 - Inmobilizar filas y columnas para fijar los datos
 - Ctrl +z y Ctrl +y sirven para avanzar y retroceder 
 
-- Formato condicional: es una herramienta que sirve para que cumplan unos criterios determinados.
+- **Formato condicional**: es una herramienta que sirve para que cumplan unos criterios determinados.
 si por ejemplo se le puede indicar que evalue el valor que tienen los rangos.Que selecionemos ,si ese valor que seleccionamos 
 tiene un criterio de que sea mayor que una cifra o que coincida con un texto concreto se le aplica automaticamente un formato
 de color,de formas ,etc.
 
-- Autofiltro: Sirve para ocultar de la vista de todos aquellos datos que nos molesta o no queremos que se vea, esto es util para listas
+- **Autofiltro**: Sirve para ocultar de la vista de todos aquellos datos que nos molesta o no queremos que se vea, esto es util para listas
 de base de datos muy grandes donde hay muchos valores ,etc. 
 Se puede esconder datos, ordenarlos alfabeticamente o de mas grande a mas pequeño y al inversa.
 
