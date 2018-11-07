@@ -1,3 +1,5 @@
+coding = utf8
+
 Han pasado desde ese año o cuantos años faltan
 Para llear ese año
 Comparador de años
