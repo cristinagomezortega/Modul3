@@ -6,7 +6,7 @@
 #que el área de un círculo es Pi (aproximadamente 3,141592) por el radio al cuadrado.
 
 #Calculadora de áreas:
--------------------------------
+#-------------------------------
 #T) Triángulo
 #C) Círculo
 #¿Qué figura quiere calcular (Escriba T o C)? T
@@ -16,7 +16,7 @@
 
 
 #Calculadora de áreas:
--------------------------------
+#-------------------------------
 #T) Triángulo
 #C) Círculo
 #¿Qué figura quiere calcular (Escriba T o C)? C
