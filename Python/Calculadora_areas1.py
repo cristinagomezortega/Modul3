@@ -30,7 +30,13 @@
 #Redondear el resultado del área a 2 decimales
 
 
-
 figura=input("Que figura quiere calcular,escriba T o C:")
-if=(figura="T"):
-    
+if (figura == "T"):
+    base=int(input("Indique la base:"))
+    altura=int(input("Indique la altura:"))
+    area=(base*altura)/2
+    print("La respuesta del triangulo es" ,area)
+else:
+    if (figura == "C"):
+        radio=int(input("Indique el radio:"))
+        perimetro=(3.14*radio**2)
