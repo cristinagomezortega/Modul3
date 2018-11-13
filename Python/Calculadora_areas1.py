@@ -40,3 +40,4 @@ else:
     if (figura == "C"):
         radio=int(input("Indique el radio:"))
         perimetro=(3.14*radio**2)
+        print("La respuesta del circulo es" ,perimetro)
