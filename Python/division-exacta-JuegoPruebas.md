@@ -1,1 +1,1 @@
-Dividiendo|Divisor|Resultado|cociente|Resto
+  Dividiendo  | Divisor | Resultado | cociente  | Resto
